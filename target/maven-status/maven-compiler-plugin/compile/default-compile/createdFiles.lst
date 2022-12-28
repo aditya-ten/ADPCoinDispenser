@@ -1,0 +1,16 @@
+com\adp\coindispenser\service\CoinDispenserService.class
+com\adp\coindispenser\dto\CoinDispenseResponse$CoinDispenseResponseBuilder.class
+com\adp\coindispenser\data\CoinDataStoreConfig.class
+com\adp\coindispenser\dto\CoinDispenseAPIError$CoinDispenseAPIErrorBuilder.class
+com\adp\coindispenser\dto\CoinDispenseResponse.class
+com\adp\coindispenser\dto\CoinDispenseRequest.class
+com\adp\coindispenser\data\CoinDataStore.class
+com\adp\coindispenser\entities\CoinTypes.class
+com\adp\coindispenser\CoinDispenserConfig.class
+com\adp\coindispenser\entities\ChangeType.class
+com\adp\coindispenser\service\CoinDispenseServiceImpl.class
+com\adp\coindispenser\dto\CoinDispenseAPIError.class
+com\adp\coindispenser\controllers\CoinDispenseAPIAdvice.class
+com\adp\coindispenser\exceptions\OutOfCoinsException.class
+com\adp\coindispenser\entities\BillTypes.class
+com\adp\coindispenser\controllers\CoinDispenseAPIController.class
